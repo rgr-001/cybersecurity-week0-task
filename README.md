@@ -84,3 +84,25 @@ for port in range(1, 101):
     if result == 0:
         print(f"✅ Port {port} is OPEN")
     s.close()
+```
+
+---
+
+## 🔗 Submission
+
+- 📎 GitHub Repo: [https://github.com/rgr-001/cybersecurity-week0-task](https://github.com/rgr-001/cybersecurity-week0-task)
+- 📄 A `.docx` report has been prepared including:
+  - All screenshots
+  - Python code
+  - This GitHub link
+
+---
+
+## 👤 Author
+
+- 👨‍💻 Name: **Rittik Gourav Raul**  
+- 🆔 Regd. No: **23110799**
+- 🎓 Program: **Zairza Skill@2025**  
+- 📆 Task Week: **0**  
+
+
