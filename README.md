@@ -102,7 +102,7 @@ for port in range(1, 101):
 
 - 👨‍💻 Name: **Rittik Gourav Raul**  
 - 🆔 Regd. No: **23110799**
-- 🎓 Program: **Zairza Skill@2025**  
+- 🎓 Program: **Zairza Skill++@2025**  
 - 📆 Task Week: **0**  
 
 
